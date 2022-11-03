@@ -1,0 +1,15 @@
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.deps.json
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.runtimeconfig.json
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.dll
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.pdb
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.csproj.AssemblyReference.cache
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfoInputs.cache
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfo.cs
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.dll
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/refint/LinkedList.dll
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.pdb
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.genruntimeconfig.cache
+/Users/hn/Desktop/dsa/LinkedList/LinkedList/obj/Debug/net6.0/ref/LinkedList.dll
